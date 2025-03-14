@@ -1,2 +1,2 @@
-# rock-paper-scissors
+# python project codsoft
 my game
